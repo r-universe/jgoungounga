@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "curesurv"]
+	path = curesurv
+	url = https://github.com/cran/curesurv
 [submodule "xhaz"]
 	path = xhaz
 	url = https://github.com/cran/xhaz
